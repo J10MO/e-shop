@@ -72,7 +72,7 @@ const BeautyShopApp = () => {
       rating: 4.7,
       reviews: 89,
       image: "💫",
-      discount: 32,
+      discount: 31,
       inStock: true,
       badge: "اختيار الخبراء",
       description: "تغطية كاملة تدوم 24 ساعة مع حماية من الشمس"
